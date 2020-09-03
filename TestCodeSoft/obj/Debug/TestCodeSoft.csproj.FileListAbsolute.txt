@@ -1,0 +1,10 @@
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\bin\Debug\TestCodeSoft.exe
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\bin\Debug\TestCodeSoft.pdb
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\obj\Debug\TestCodeSoft.csprojResolveAssemblyReference.cache
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\obj\Debug\Interop.LabelManager2.dll
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\obj\Debug\TestCodeSoft.csproj.ResolveComReference.cache
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\obj\Debug\TestCodeSoft.Main.resources
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\obj\Debug\TestCodeSoft.Properties.Resources.resources
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\obj\Debug\TestCodeSoft.csproj.GenerateResource.Cache
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\obj\Debug\TestCodeSoft.exe
+E:\NEW CSharpWork\疑问测试\TestCodeSoft\TestCodeSoft\obj\Debug\TestCodeSoft.pdb
